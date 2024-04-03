@@ -1,6 +1,6 @@
 def get_up_string():
-
- """ функция """
-
+ """ 
+ Функция меняет регистр
+ """
  upp_string = input().upper()
  return upp_string
